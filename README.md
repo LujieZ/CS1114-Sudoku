@@ -1,5 +1,5 @@
 # CS1114-Sudoku
- Final project for CS1114 class
+ Final project for CS1114 class (Fall 2018)
 
 The objective of this project is to create a program that generates a Sudoku game. This project can be improved and feasible for all students in the future. It takes user inputs (digits 1 to 9), examines them, and informs the user after he/she completed the game correctly. The program allows user to change his/her inputs before the time limit (20 mins). However, the digits that were originally generated cannot be changed. 
 
